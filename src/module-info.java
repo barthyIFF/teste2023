@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author claudinho
+ *
+ */
+module teste {
+}
